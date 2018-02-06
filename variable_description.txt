@@ -1,0 +1,29 @@
+#### Variable Description
+#### Scrape full-text review data from TripAdvisor
+#### Zhu Zhu, Dec 2017 
+#### zhuzf@bc.edu
+
+"collect_by" : Whether this review is collected by "partnership" with the hotel
+
+"hotel_response": Whether a hotel manager has responded to this review
+
+"rating_by_category": Review rating on categories, including "cleanliness", "location", "service", "value", "room quality", and "sleep quality".
+
+"ratings": Overall review rating
+
+"review_date": The date this review is posted
+
+"review_quotes": Quote of this review
+	
+"review_text": Full review text
+
+"stayed_as": the month stayed at the hotel and travel type (solo, couple, business, family)
+
+"url": url of the hotel on TripAdvisor
+
+"user_location": Reviewer's location in TripAdvisor profile
+
+"user_name": Reviewer's username in TripAdvisor profile
+
+"user_review_hist": The total number of reviews this reviewer has posted on TripAdvisor by Dec, 2017
+
